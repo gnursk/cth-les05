@@ -1,3 +1,2 @@
 # Lasagna recept (pog)
-
-<img> https://www.google.com/search?q=lasagne+recept&sxsrf=AOaemvLAO9YF6beycdyCn7o8edCTVVq79g:1632823672995&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjso4mYtqHzAhXLSvEDHQbsBfoQ_AUoAXoECAEQAw&biw=1536&bih=760&dpr=1.25#imgrc=ZPB04niPgrTrKM
+![lasagna](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F121-1214716_lasagne-bolognese-sauce-italian-cuisine-pasta-food-lasagna.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2Fwibmhi_lasagne-bolognese-sauce-italian-cuisine-pasta-food-lasagna%2F&tbnid=Y0IN8svNdJDQ7M&vet=12ahUKEwihnfTFu6HzAhXEOewKHWfRC30QMygAegQIARB-..i&docid=SqJmBfB0Ok_nnM&w=860&h=627&q=lasagna.png&ved=2ahUKEwihnfTFu6HzAhXEOewKHWfRC30QMygAegQIARB-)
